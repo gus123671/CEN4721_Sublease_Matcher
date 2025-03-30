@@ -1,5 +1,6 @@
 # CEN4721_Sublease_Matcher
 To build the project:
+
 1). Clone the repo
 
 2). cd server
