@@ -23,4 +23,4 @@ At this point, you've launched the backend. Now it's time to launch the frontend
 
 9). npm run dev
 
-Go to the URL/address displayed in the console. Whenever you want to relaunch the web app, launch the backend first (python main.py) then launch the Frontend (npm run dev, while inside the client directory).
+Go to the URL/address displayed in the console. Whenever you want to relaunch the web app, launch the backend first (python main.py) then launch the frontend (npm run dev, while inside the client directory).
